@@ -12,9 +12,7 @@ The work is based on the the fact that typically Chl-α increases and decreases 
 
 The following figure illustrates an overview of the proposed method:
 
-<p align="center">
-  <img src="Picture1.jpg" />
-</p>
+![](./Picture1.jpg) 
 
 
 Other details:
